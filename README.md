@@ -1,4 +1,4 @@
-# green_hare
+# green_hare version beta
 Editor de informes volumétricos con NOMIS y FreeSurfer
 
 GreenHare es un programa que se propone generar una interfaz grafica para crear informes graficos de volumetria cerebral obtenida con FreeSurfer 6.0 y estandarizado con NOMIS.
