@@ -1,0 +1,76 @@
+status file for recon-all
+Fri Aug 19 23:13:59 -03 2022
+#@# MotionCor Fri Aug 19 23:14:18 -03 2022
+#@# Talairach Fri Aug 19 23:14:31 -03 2022
+#@# Talairach Failure Detection Fri Aug 19 23:15:28 -03 2022
+#@# Nu Intensity Correction Fri Aug 19 23:15:28 -03 2022
+#@# Intensity Normalization Fri Aug 19 23:16:43 -03 2022
+#@# Skull Stripping Fri Aug 19 23:18:13 -03 2022
+#@# EM Registration Fri Aug 19 23:24:58 -03 2022
+#@# CA Normalize Fri Aug 19 23:47:48 -03 2022
+#@# CA Reg Fri Aug 19 23:49:04 -03 2022
+#@# SubCort Seg Sat Aug 20 01:05:17 -03 2022
+#@# Merge ASeg Sat Aug 20 01:30:54 -03 2022
+#@# Intensity Normalization2 Sat Aug 20 01:30:54 -03 2022
+#@# Mask BFS Sat Aug 20 02:02:52 -03 2022
+#@# WM Segmentation Sat Aug 20 02:02:53 -03 2022
+#@# Fill Sat Aug 20 02:04:32 -03 2022
+#@# Tessellate lh Sat Aug 20 02:05:00 -03 2022
+#@# Tessellate rh Sat Aug 20 02:05:04 -03 2022
+#@# Smooth1 lh Sat Aug 20 02:05:07 -03 2022
+#@# Smooth1 rh Sat Aug 20 02:05:12 -03 2022
+#@# Inflation1 lh Sat Aug 20 02:05:17 -03 2022
+#@# Inflation1 rh Sat Aug 20 02:05:29 -03 2022
+#@# QSphere lh Sat Aug 20 02:05:40 -03 2022
+#@# QSphere rh Sat Aug 20 02:06:45 -03 2022
+#@# Fix Topology Copy lh Sat Aug 20 02:07:53 -03 2022
+#@# Fix Topology Copy rh Sat Aug 20 02:07:53 -03 2022
+#@# Fix Topology lh Sat Aug 20 02:07:53 -03 2022
+#@# Fix Topology rh Sat Aug 20 02:15:21 -03 2022
+#@# Make White Surf lh Sat Aug 20 04:41:46 -03 2022
+#@# Make White Surf rh Sat Aug 20 05:33:08 -03 2022
+#@# Smooth2 lh Sat Aug 20 06:42:23 -03 2022
+#@# Smooth2 rh Sat Aug 20 06:42:27 -03 2022
+#@# Inflation2 lh Sat Aug 20 06:42:31 -03 2022
+#@# Inflation2 rh Sat Aug 20 06:42:42 -03 2022
+#@# Curv .H and .K lh Sat Aug 20 06:42:54 -03 2022
+#@# Curv .H and .K rh Sat Aug 20 06:59:01 -03 2022
+#@# Curvature Stats lh Sat Aug 20 07:15:43 -03 2022
+#@# Curvature Stats rh Sat Aug 20 07:15:47 -03 2022
+#@# Sphere lh Sat Aug 20 07:15:50 -03 2022
+#@# Sphere rh Sat Aug 20 07:57:45 -03 2022
+#@# Surf Reg lh Sat Aug 20 09:09:14 -03 2022
+#@# Surf Reg rh Sat Aug 20 09:47:12 -03 2022
+#@# Jacobian white lh Sat Aug 20 11:12:16 -03 2022
+#@# Jacobian white rh Sat Aug 20 11:12:18 -03 2022
+#@# AvgCurv lh Sat Aug 20 11:12:19 -03 2022
+#@# AvgCurv rh Sat Aug 20 11:12:20 -03 2022
+#@# Cortical Parc lh Sat Aug 20 11:12:21 -03 2022
+#@# Cortical Parc rh Sat Aug 20 11:12:29 -03 2022
+#@# Make Pial Surf lh Sat Aug 20 11:12:38 -03 2022
+#@# Make Pial Surf rh Sat Aug 20 12:04:03 -03 2022
+#@# Surf Volume lh Sat Aug 20 12:55:02 -03 2022
+#@# Surf Volume rh Sat Aug 20 12:55:04 -03 2022
+#@# Cortical ribbon mask Sat Aug 20 12:55:06 -03 2022
+#@# Parcellation Stats lh Sat Aug 20 12:57:50 -03 2022
+#@# Parcellation Stats rh Sat Aug 20 12:58:23 -03 2022
+#@# Cortical Parc 2 lh Sat Aug 20 12:58:56 -03 2022
+#@# Cortical Parc 2 rh Sat Aug 20 12:59:07 -03 2022
+#@# Parcellation Stats 2 lh Sat Aug 20 12:59:17 -03 2022
+#@# Parcellation Stats 2 rh Sat Aug 20 12:59:34 -03 2022
+#@# Cortical Parc 3 lh Sat Aug 20 12:59:50 -03 2022
+#@# Cortical Parc 3 rh Sat Aug 20 12:59:59 -03 2022
+#@# Parcellation Stats 3 lh Sat Aug 20 13:00:07 -03 2022
+#@# Parcellation Stats 3 rh Sat Aug 20 13:00:23 -03 2022
+#@# WM/GM Contrast lh Sat Aug 20 13:00:40 -03 2022
+#@# WM/GM Contrast rh Sat Aug 20 13:00:47 -03 2022
+#@# Relabel Hypointensities Sat Aug 20 13:00:52 -03 2022
+#@# AParc-to-ASeg aparc Sat Aug 20 13:01:03 -03 2022
+#@# AParc-to-ASeg a2009s Sat Aug 20 13:03:15 -03 2022
+#@# AParc-to-ASeg DKTatlas Sat Aug 20 13:05:29 -03 2022
+#@# APas-to-ASeg Sat Aug 20 13:55:23 -03 2022
+#@# ASeg Stats Sat Aug 20 14:10:53 -03 2022
+#@# WMParc Sat Aug 20 14:46:35 -03 2022
+#@# BA_exvivo Labels lh Sat Aug 20 16:36:25 -03 2022
+#@# BA_exvivo Labels rh Sat Aug 20 17:43:18 -03 2022
+recon-all -s demencia finished without error at Sat Aug 20 17:58:04 -03 2022

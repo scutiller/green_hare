@@ -1,0 +1,1 @@
+mri_convert /Applications/freesurfer/6.0/subjects/demencia/mri/rawavg.mgz /Applications/freesurfer/6.0/subjects/demencia/mri/orig.mgz --conform

@@ -1,0 +1,1 @@
+mri_cc -aseg aseg.auto_noCCseg.mgz -o aseg.auto.mgz -lta /Applications/freesurfer/6.0/subjects/demencia/mri/transforms/cc_up.lta demencia

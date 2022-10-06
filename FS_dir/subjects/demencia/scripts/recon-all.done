@@ -1,0 +1,13 @@
+------------------------------
+SUBJECT demencia
+START_TIME Fri Aug 19 23:13:43 -03 2022
+END_TIME Sat Aug 20 17:58:04 -03 2022
+RUNTIME_HOURS 18.739
+USER scutiller
+HOST MacBook-Air-de-Santiago.local
+PROCESSOR arm64
+OS Darwin
+UNAME Darwin MacBook-Air-de-Santiago.local 20.4.0 Darwin Kernel Version 20.4.0: Thu Apr 22 21:46:41 PDT 2021; root:xnu-7195.101.2~1/RELEASE_ARM64_T8101 arm64
+VERSION $Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+CMDPATH /Applications/freesurfer/6.0/bin/recon-all
+CMDARGS -all -s demencia -i t1.nii

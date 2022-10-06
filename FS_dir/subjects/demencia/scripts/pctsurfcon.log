@@ -1,0 +1,9 @@
+Logfile for pctsurfcon
+Sat Aug 20 13:00:47 -03 2022
+setenv SUBJECTS_DIR /Applications/freesurfer/6.0/subjects
+cd /Applications/freesurfer/6.0/subjects/demencia/scripts
+/Applications/freesurfer/6.0/bin/pctsurfcon
+$Id: FreeSurferEnv.csh,v 1.89 2016/06/09 14:54:31 zkaufman Exp $
+Darwin MacBook-Air-de-Santiago.local 20.4.0 Darwin Kernel Version 20.4.0: Thu Apr 22 21:46:41 PDT 2021; root:xnu-7195.101.2~1/RELEASE_ARM64_T8101 arm64
+FREESURFER_HOME /Applications/freesurfer/6.0
+Cleaning up
